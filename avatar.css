@@ -37,51 +37,58 @@ SVG Presentation Attributes:
 .eye {fill: red;
 }
 
-.arm {
+.arm {stroke-width: 10;
+    fill: blue;
 }
 
-.shoe {
+.shoe {fill: yellow;
 }
 
-.left {
+.left {fill: red;
+    stroke: blue;
 }
 
-.right {
+.right {fill: blue;
+    stroke: red;
 }
 
-#head {
+#head {stroke-width: 30;
+    fill: tan;
 
 }
 
-#right-eye {
+#right-eye {fill: green;
+    stroke-width: 30;
 }
 
-#left-eye {
+#left-eye {fill: pink;
+    stroke-width: 30;
 }
 
-#neck {
+#neck {fill: tan;
 }
 
-#shirt {
+#shirt {fill: black;
 }
 
-#cape {
+#cape {fill: pink;
 }
 
-#mouth {
+#mouth {fill: gold;
 }
 
-#pants {
+#pants {fill: brown;
+    stroke-width: 20;
 }
 
-#left-arm {
+#left-arm {fill: tan;
 }
 
-#right-arm {
+#right-arm {fill: tan;
 }
 
-#left-shoe {
+#left-shoe {fill: black;
 }
 
-#right-shoe {
+#right-shoe {fill: pink
 }
